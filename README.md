@@ -31,3 +31,8 @@ Welcome to the Employee Dashboard project! This application allows users to view
    ```bash
    git clone https://github.com/your-username/employee-dashboard.git
 
+2.Navigate to the project directory:
+```bash
+cd employee-dashboard
+   
+
