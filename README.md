@@ -35,16 +35,8 @@ Welcome to the Employee Dashboard project! This application allows users to view
 ```bash
 cd employee-dashboard
 
-3.Install the necessary dependencies for the frontend:
-```bash
-npm install
+3. **Install the necessary dependencies for the frontend:**
+   ```bash
+   npm install
 
-4.Navigate to the backend directory:
-```bash
-cd ../backend
-
-5.Install the necessary dependencies for the backend:
-```bash
-npm install
-   
 
