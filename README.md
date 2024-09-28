@@ -27,16 +27,42 @@ Welcome to the Employee Dashboard project! This application allows users to view
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
    ```bash
    git clone https://github.com/your-username/employee-dashboard.git
-
-2.Navigate to the project directory:
+```
+2. Navigate to the project directory:
 ```bash
 cd employee-dashboard
+```
 
-3. **Install the necessary dependencies for the frontend:**
-   ```bash
-   npm install
+3.Install the necessary dependencies for the frontend:
+```bash
+npm install
+```
+
+4.Navigate to the backend directory:
+```bash
+cd ../backend
+```
+
+5.Install the necessary dependencies for the backend:
+```bash
+npm install
+```
+
+## Usage
+
+1.Start the backend server:
+```bash
+cd backend
+node server.js
+```
+
+2.Start the frontend application:
+```bash
+cd ..
+npm start
+```
 
 
